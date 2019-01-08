@@ -1,0 +1,60 @@
+---
+title: "Untitled"
+author: "Jonathan Attey"
+date: "12/15/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+###TL;DR
+  *  `parameters` 
+  
+###Context
+  * Sellers need to know what action(s) to take to improve their chances of success. Our goal is to offer personalized recommendations to our sellers to take the right action for them, for their ad to become more successful. To move towards this goal we need to first understand if our recommendations are (a) used by sellers during the wait and see period (b) improve the seller success: leads/connections.
+  
+###Hypothesis
+  * 1. If I can convince the delivery leads and other partners to properly fill in this canvas, our automation project will reduce analysis paralysis by 90% and this will leave product analysts to focus on more actionable insights.
+  * 2. I really hope this works out
+  
+###Success Metrics
+  * adoption
+  *  connection
+  
+###Health Metrics
+  * revenue
+  
+###Learning Metrics
+  * duration
+  *  automation
+  
+###Exposed groups
+  * All partners of product analysts
+  
+###Platform(s)
+  * android
+  * ios
+  * web
+  
+###Manipulation
+  * Group A: Control group33.3%
+  * GroupB: Users who had variation 33%
+  * GroupC:Users who had variation 2 and I am going to make this text  long on purpose 33
+  
+  
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
